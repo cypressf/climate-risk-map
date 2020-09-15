@@ -1,26 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
+import Map from './Map';
+import { Objects, Topology } from 'topojson-specification';
+import { GeoJsonProperties } from 'geojson';
 import './App.css';
+import { json } from 'd3-fetch';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  const [data, setData] = useState<Topology<Objects<GeoJsonProperties>>>();
+  useEffect(() => {
+    json<Topology<Objects<GeoJsonProperties>>>("usa-topo.json").then(setData);
+  }, []);
+  return <React.Fragment><Map data={data}/></React.Fragment>;
 }
 
 export default App;
