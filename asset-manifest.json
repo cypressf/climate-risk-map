@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/climate-risk-map/static/css/main.17a970c8.chunk.css",
-    "main.js": "/climate-risk-map/static/js/main.f08b06e3.chunk.js",
-    "main.js.map": "/climate-risk-map/static/js/main.f08b06e3.chunk.js.map",
+    "main.js": "/climate-risk-map/static/js/main.53dd3008.chunk.js",
+    "main.js.map": "/climate-risk-map/static/js/main.53dd3008.chunk.js.map",
     "runtime-main.js": "/climate-risk-map/static/js/runtime-main.099d9006.js",
     "runtime-main.js.map": "/climate-risk-map/static/js/runtime-main.099d9006.js.map",
-    "static/js/2.c39c5a82.chunk.js": "/climate-risk-map/static/js/2.c39c5a82.chunk.js",
-    "static/js/2.c39c5a82.chunk.js.map": "/climate-risk-map/static/js/2.c39c5a82.chunk.js.map",
+    "static/js/2.20c8cb8d.chunk.js": "/climate-risk-map/static/js/2.20c8cb8d.chunk.js",
+    "static/js/2.20c8cb8d.chunk.js.map": "/climate-risk-map/static/js/2.20c8cb8d.chunk.js.map",
     "index.html": "/climate-risk-map/index.html",
-    "precache-manifest.919bbff39e44a99a5e9b3ae02042fa88.js": "/climate-risk-map/precache-manifest.919bbff39e44a99a5e9b3ae02042fa88.js",
+    "precache-manifest.5dd9ce9ae93946f236cb93ddb23f47ab.js": "/climate-risk-map/precache-manifest.5dd9ce9ae93946f236cb93ddb23f47ab.js",
     "service-worker.js": "/climate-risk-map/service-worker.js",
     "static/css/main.17a970c8.chunk.css.map": "/climate-risk-map/static/css/main.17a970c8.chunk.css.map",
-    "static/js/2.c39c5a82.chunk.js.LICENSE.txt": "/climate-risk-map/static/js/2.c39c5a82.chunk.js.LICENSE.txt"
+    "static/js/2.20c8cb8d.chunk.js.LICENSE.txt": "/climate-risk-map/static/js/2.20c8cb8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.099d9006.js",
-    "static/js/2.c39c5a82.chunk.js",
+    "static/js/2.20c8cb8d.chunk.js",
     "static/css/main.17a970c8.chunk.css",
-    "static/js/main.f08b06e3.chunk.js"
+    "static/js/main.53dd3008.chunk.js"
   ]
 }
