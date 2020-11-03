@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/climate-risk-map/static/css/main.ae5f03f5.chunk.css",
-    "main.js": "/climate-risk-map/static/js/main.a575ef2b.chunk.js",
-    "main.js.map": "/climate-risk-map/static/js/main.a575ef2b.chunk.js.map",
+    "main.css": "/climate-risk-map/static/css/main.c6fdfb6b.chunk.css",
+    "main.js": "/climate-risk-map/static/js/main.1173f63d.chunk.js",
+    "main.js.map": "/climate-risk-map/static/js/main.1173f63d.chunk.js.map",
     "runtime-main.js": "/climate-risk-map/static/js/runtime-main.099d9006.js",
     "runtime-main.js.map": "/climate-risk-map/static/js/runtime-main.099d9006.js.map",
-    "static/js/2.1c097c53.chunk.js": "/climate-risk-map/static/js/2.1c097c53.chunk.js",
-    "static/js/2.1c097c53.chunk.js.map": "/climate-risk-map/static/js/2.1c097c53.chunk.js.map",
+    "static/js/2.bb69d7b4.chunk.js": "/climate-risk-map/static/js/2.bb69d7b4.chunk.js",
+    "static/js/2.bb69d7b4.chunk.js.map": "/climate-risk-map/static/js/2.bb69d7b4.chunk.js.map",
     "index.html": "/climate-risk-map/index.html",
-    "precache-manifest.b4a14d83ca13656a2bc77ee9e1f9d4f8.js": "/climate-risk-map/precache-manifest.b4a14d83ca13656a2bc77ee9e1f9d4f8.js",
+    "precache-manifest.73c825fa6b6c67875b20740699863042.js": "/climate-risk-map/precache-manifest.73c825fa6b6c67875b20740699863042.js",
     "service-worker.js": "/climate-risk-map/service-worker.js",
-    "static/css/main.ae5f03f5.chunk.css.map": "/climate-risk-map/static/css/main.ae5f03f5.chunk.css.map",
-    "static/js/2.1c097c53.chunk.js.LICENSE.txt": "/climate-risk-map/static/js/2.1c097c53.chunk.js.LICENSE.txt"
+    "static/css/main.c6fdfb6b.chunk.css.map": "/climate-risk-map/static/css/main.c6fdfb6b.chunk.css.map",
+    "static/js/2.bb69d7b4.chunk.js.LICENSE.txt": "/climate-risk-map/static/js/2.bb69d7b4.chunk.js.LICENSE.txt",
+    "static/media/MIT-logo.svg": "/climate-risk-map/static/media/MIT-logo.d6c060a0.svg",
+    "static/media/MST-logo.jpg": "/climate-risk-map/static/media/MST-logo.d88026d0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.099d9006.js",
-    "static/js/2.1c097c53.chunk.js",
-    "static/css/main.ae5f03f5.chunk.css",
-    "static/js/main.a575ef2b.chunk.js"
+    "static/js/2.bb69d7b4.chunk.js",
+    "static/css/main.c6fdfb6b.chunk.css",
+    "static/js/main.1173f63d.chunk.js"
   ]
 }
