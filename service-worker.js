@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/climate-risk-map/precache-manifest.d42cea492f9c38024afdd483141d4746.js"
+  "/climate-risk-map/precache-manifest.62098b761d3598c44ad5f33b44dce945.js"
 );
 
 self.addEventListener('message', (event) => {
