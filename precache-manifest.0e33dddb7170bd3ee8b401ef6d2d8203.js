@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05f3bfad865ecc596bafbb983b0e3859",
+    "revision": "aff4f7b35adcb944c00a948582dcbcef",
     "url": "/climate-risk-map/index.html"
   },
   {
