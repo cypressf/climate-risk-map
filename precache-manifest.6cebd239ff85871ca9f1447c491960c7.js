@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09d920fb19cff70509fc6db8d232d69e",
+    "revision": "5944f14223efd87162d88708e709862f",
     "url": "/climate-risk-map/index.html"
   },
   {
-    "revision": "ac1654692abaa083e71d",
+    "revision": "e6e1efe6a6bfc4a61e85",
     "url": "/climate-risk-map/static/css/main.eb62f50b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/climate-risk-map/static/js/2.fde35346.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac1654692abaa083e71d",
-    "url": "/climate-risk-map/static/js/main.30e98b59.chunk.js"
+    "revision": "e6e1efe6a6bfc4a61e85",
+    "url": "/climate-risk-map/static/js/main.938825ac.chunk.js"
   },
   {
     "revision": "cdbbd96e8938497034b2",
